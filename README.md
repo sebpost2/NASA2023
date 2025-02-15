@@ -1,5 +1,3 @@
----
-
 # Titan3023 - NASA Hackathon 2023
 
 ### Project Overview
